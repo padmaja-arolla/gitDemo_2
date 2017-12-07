@@ -9,3 +9,4 @@ Added a new line and comitted for second time on dev branch.
 Additional commit to master
 
 Frist additional commit to dev
+Second additional commit to dev
